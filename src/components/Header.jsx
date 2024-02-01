@@ -6,7 +6,7 @@ import Portfolio from "./Portfolio";
 import Resume from "./Resume";
 
 function Header() {
-  const [currentPage, setCurrentPage] = useState("About");
+  const [currentPage, handlePageChange] = useState("About");
 
   const renderPage = () => {
     switch (currentPage) {
@@ -24,5 +24,24 @@ function Header() {
     }
   };
 
-  const handlePageChange = (page) => setCurrentPage(page);
+  return (
+    <div>
+      <nav className="navbar">
+        <div className="navbar-brand">
+          <a
+            className="navbar-item"
+            rel="noreferrer"
+            target="_blank"
+            href="https://github.com/nicholascatalano?tab=repositories"
+          >
+            <span className="content is-large">Nicholas Catalano</span>
+          </a>
+        </div>
+      </nav>
+      <Nav currentPage={currentPage} handlePageChange={handlePageChange} />
+      <main>
+        <div>{renderPage(currentPage)}</div>
+      </main>
+    </div>
+  );
 }

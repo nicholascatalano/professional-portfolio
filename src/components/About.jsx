@@ -7,8 +7,8 @@ function About() {
       <hr />
       <img className="my-pic" src="/images/pfp.jpg" alt="Image of myself" />
       <p className="content is-italic mt-4">
-        My name is Nick Catalano, and I am a student of the Columbia University
-        Full Stack Coding Bootcamp.
+        My name is Nicholas (Nick) Catalano, and I am a student of the Columbia
+        University Full Stack Coding Bootcamp.
       </p>
       <p className="content"></p>
     </div>
