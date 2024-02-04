@@ -11,7 +11,7 @@ function Footer() {
             target="_blank"
             rel="noreferrer"
           >
-            Nicholas (Nick) Catalano
+            Nicholas Catalano
           </a>
           .
           <hr />

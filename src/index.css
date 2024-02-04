@@ -1,7 +1,8 @@
 body {
   font-family: Work Sans;
   text-align: center;
-  background-color: aliceblue;
+  background-color: #222222;
+  color: white;
 }
 
 .navbar,
@@ -9,7 +10,7 @@ body {
   text-align: center;
   display: block;
   width: 100%;
-  background-color: aliceblue;
+  background-color: #222222;
 }
 
 div.navbar-brand {
@@ -20,6 +21,11 @@ div.navbar-brand {
 .navbar .navbar-brand > .navbar-item,
 .navbar .navbar-brand .navbar-link {
   display: inline-block;
+  color: white;
+}
+
+.tabs a {
+  color: white;
 }
 
 main {
@@ -27,6 +33,10 @@ main {
   margin-bottom: 2em;
   margin-left: 30em;
   margin-right: 30em;
+}
+
+strong {
+  color: white;
 }
 
 .my-pic {
@@ -39,8 +49,14 @@ main {
 }
 
 footer.footer {
-  background-color: rgb(255, 255, 255);
+  background-color: #222222;
+  color: white;
 }
+
+/* .linkedIn {
+  width: 100px;
+
+} */
 
 @media only screen and (max-width: 1024px) {
   main {

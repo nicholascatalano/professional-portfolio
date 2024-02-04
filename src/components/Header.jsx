@@ -29,6 +29,7 @@ function Header() {
       <nav className="navbar">
         <div className="navbar-brand">
           <a
+            style={{ color: "white" }}
             className="navbar-item"
             rel="noreferrer"
             target="_blank"
