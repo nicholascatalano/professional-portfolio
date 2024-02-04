@@ -52,6 +52,10 @@ strong {
   text-align: left;
 }
 
+.button.is-primary {
+  background-color: #391abd;
+}
+
 footer.footer {
   background-color: #222222;
   color: white;
