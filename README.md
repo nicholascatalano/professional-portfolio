@@ -19,6 +19,8 @@ This is my Professional Portfolio created using React + Vite to be used to showc
 
 No install needed. Please visit the live website [here](https://main--sage-clafoutis-88cef1.netlify.app/)!
 
+If you would like to install it locally, please clone the repo to your local computer first. Once that is done, navigate to the root directory of the application within the terminal and run `npm i`. Then enter `npm start` and the application should open automatically within the browser.
+
 ## Usage
 
 To use the application, just navigate through the nav bar at the top of the page.
