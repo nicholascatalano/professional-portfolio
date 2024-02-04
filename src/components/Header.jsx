@@ -1,8 +1,8 @@
 import React, { useState } from "react";
 import About from "./About";
 import Nav from "./Nav";
-// import Contact from "./Contact";
 import Portfolio from "./Portfolio";
+// import Contact from "./Contact";
 // import Resume from "./Resume";
 
 function Header() {

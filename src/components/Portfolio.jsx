@@ -57,7 +57,7 @@ function Portfolio() {
       <p className="content is-medium">Portfolio</p>
       <hr />
 
-      <Project project={projects} />
+      <Project projects={projects} />
     </div>
   );
 }
