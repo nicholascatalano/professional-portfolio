@@ -1,4 +1,5 @@
 import React from "react";
+import Project from "./Project";
 
 const projects = [
   {
@@ -49,3 +50,16 @@ const projects = [
     live: "https://note-taker-cu-3e28c82291c5.herokuapp.com/",
   },
 ];
+
+function Portfolio() {
+  return (
+    <div>
+      <p className="content is-medium">Portfolio</p>
+      <hr />
+
+      <Project project={projects} />
+    </div>
+  );
+}
+
+export default Portfolio;
