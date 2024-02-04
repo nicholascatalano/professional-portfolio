@@ -39,6 +39,10 @@ strong {
   color: white;
 }
 
+.card-image {
+  height: 100%;
+}
+
 .my-pic {
   clip-path: circle();
   width: 250px;

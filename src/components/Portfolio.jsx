@@ -41,7 +41,7 @@ const projects = [
   {
     id: 3,
     title: "Note Taker",
-    image: "/images/note-taker.png",
+    image: "/images/note-taker-app.png",
     languages: "html, css, javascript",
     packages: "express, uuid",
     description:
