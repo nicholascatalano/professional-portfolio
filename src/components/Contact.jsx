@@ -37,6 +37,12 @@ function Contact() {
   return (
     <div>
       <p className="content is-medium">Contact Me</p>
+      <p>
+        <strong>
+          Please note this form is not functional. If you would like to reach
+          me, please do so @ nickcatalano24@gmail.com
+        </strong>
+      </p>
       <hr />
       <form id="contact-form" onSubmit={handleSubmit}>
         <div className="field">
