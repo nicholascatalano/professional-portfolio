@@ -31,7 +31,7 @@ This project is licensed under the [MIT](https://opensource.org/licenses/MIT) li
 
 ## Image
 
-![image](https://github.com/nicholascatalano/professional-portfolio/assets/149517751/8e5b695b-5b11-4d30-abed-5ba44f2f7427)
+![profile_picture](https://github.com/nicholascatalano/professional-portfolio/assets/149517751/3a83ae22-3aaa-4cc0-ace0-b2ce447e3d79)
 
 ## Questions
 
