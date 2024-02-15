@@ -22,9 +22,9 @@ const projects = [
     packages:
       "express, mysql12, sequelize, bcrypt, connect-session-sequelize, express-handlebars, express-session, dotenv",
     description:
-      "Foodie finds was created to help people who are looking for restaurants that cater to their specific dietary needs. This app has a minimalist design and a user-friendly interface with a clear navigational structure that makes it easy to use. The user will be able to add their own review for a restaurant they've visted which will be saved to their account dashboard, as well as see other reviews of restaurants based off their filters.",
+      "Foodie finds was created to help people who are looking for restaurants that cater to their preferences. Users can add their own reviews for restaurants they've visited, or search for restaurants using the side filter.",
     repo: "https://github.com/nicholascatalano/foodie-finds-app",
-    live: "https://restaurant-blog-3f12d3a2bc88.herokuapp.com/",
+    live: "https://foodie-finds.onrender.com/",
   },
   {
     id: 2,
@@ -37,6 +37,16 @@ const projects = [
       "The all in one place for book researchers and readers, that allows for the creation of your own library that you can revisit whenever you want. Our motivation was to develop an app that allows users to discover, explore, and organize their favorite books and other valuable information.",
     repo: "https://github.com/nicholascatalano/book-organizer",
     live: "https://book-researcher-and-organizer.onrender.com/",
+  },
+  {
+    id: 3,
+    title: "Placeholder",
+    image: "https://placehold.co/600x400/png",
+    languages: "TBD",
+    packages: "TBD",
+    description: "TBD",
+    repo: "https://github.com/nicholascatalano/",
+    live: "https://github.com/nicholascatalano/",
   },
 ];
 
