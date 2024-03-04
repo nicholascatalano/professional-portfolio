@@ -5,8 +5,8 @@
 ## Table of Contents
 
 - [Description](#description)
-- [Installation/Live Site](#installation/live)
-- [Usage/](#usage/live)
+- [Link](#link)
+- [Usage](#usage)
 - [License](#license)
 - [Image](#image)
 - [Questions](#questions)
@@ -15,9 +15,9 @@
 
 This is my Professional Portfolio created using React + Vite to be used to showcase the projects I've worked on, a little about myself, and ways to contact me. The goal is to constantly update this when applying for jobs or when conducting freelance work.
 
-## Installation/Live
+## Link
 
-No install needed. Please visit the live website [here](https://main--sage-clafoutis-88cef1.netlify.app/)!
+No install needed. Please visit the live website [here](https://nickcatalano-portfolio.netlify.app/)!
 
 If you would like to install it locally, please clone the repo to your local computer first. Once that is done, navigate to the root directory of the application within the terminal and run `npm i`. Then enter `npm start` and the application should open automatically within the browser.
 
